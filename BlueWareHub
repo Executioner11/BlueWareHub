@@ -3,7 +3,9 @@ local GAME_SCRIPTS = {
     [155615604] = "https://raw.githubusercontent.com/Executioner11/Prison-Life-Script/refs/heads/main/Script",  -- Game ID 1
     [124082555806669] = "https://raw.githubusercontent.com/Executioner11/DontGetCrushedBy67/refs/heads/main/67",  -- Game ID 2
     [18799085098] = "https://raw.githubusercontent.com/Executioner11/-skull-Hide-Or-Die/refs/heads/main/Hide%20Or%20Die",  -- Game ID 3
-    [4567890123] = "https://example.com/script4.lua",  -- Game ID 4
+    [136801880565837] = "https://raw.githubusercontent.com/Executioner11/-FPS-Flick/refs/heads/main/Script",  -- Game ID 4
+    [4567890123] = "https://example.com/script4.lua",  -- Game ID 5
+    [4567890123] = "https://example.com/script4.lua",  -- Game ID 6
     -- add as many as you want
 }
 
